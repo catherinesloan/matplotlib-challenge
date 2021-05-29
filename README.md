@@ -9,7 +9,7 @@ In a study, 249 mice identified with SCC tumor growth were treated through a var
 
 
 ### Task:
-As a senior data analyst at the company, I've been given access to the complete [data](https://github.com/catherinesloan/matplotlib-challenge/tree/main/data) from their most recent animal study and tasked to generate all of the tables and figures needed for the technical report of the study. The executive team also has asked for a top-level summary of the study results.
+As a senior data analyst at the company, I've been given access to the [complete data](https://github.com/catherinesloan/matplotlib-challenge/tree/main/data) from their most recent animal study and tasked to generate all of the tables and figures needed for the technical report of the study. The executive team also has asked for a top-level summary of the study results.
 
 ### Output:
 A [Python script](https://github.com/catherinesloan/matplotlib-challenge/blob/main/pymaceuticals_solution.ipynb) that first checks the data for any mouse ID with duplicate time points and removes any data associated with that mouse ID 
@@ -24,11 +24,7 @@ A [Python script](https://github.com/catherinesloan/matplotlib-challenge/blob/ma
 9. A calculation of the correlation coefficient and linear regression model between mouse weight and average tumor volume for the Capomulin treatment. Plotted the linear regression model on top of the previous scatter plot
 10. Three written observations made from the data
 
-<img width="406" alt="Screen Shot 2021-05-29 at 5 11 35 pm" src="https://user-images.githubusercontent.com/73929301/120061543-1769a800-c0a1-11eb-81f5-2c3700624f95.png">
-
-<img width="410" alt="Screen Shot 2021-05-29 at 5 11 49 pm" src="https://user-images.githubusercontent.com/73929301/120061545-1a649880-c0a1-11eb-947e-3cc4633c6c5c.png">
-
-<img width="444" alt="Screen Shot 2021-05-29 at 5 11 58 pm" src="https://user-images.githubusercontent.com/73929301/120061546-1afd2f00-c0a1-11eb-8711-ca7e1800b927.png">
+<img width="406" alt="Screen Shot 2021-05-29 at 5 11 35 pm" src="https://user-images.githubusercontent.com/73929301/120061543-1769a800-c0a1-11eb-81f5-2c3700624f95.png"><img width="410" alt="Screen Shot 2021-05-29 at 5 11 49 pm" src="https://user-images.githubusercontent.com/73929301/120061545-1a649880-c0a1-11eb-947e-3cc4633c6c5c.png"><img width="444" alt="Screen Shot 2021-05-29 at 5 11 58 pm" src="https://user-images.githubusercontent.com/73929301/120061546-1afd2f00-c0a1-11eb-8711-ca7e1800b927.png">
 
 
 
